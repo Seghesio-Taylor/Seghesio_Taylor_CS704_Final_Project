@@ -1,0 +1,9 @@
+# Path to the dataset
+path: C:/Users/taylo/OneDrive/Desktop/code/dataset
+train: C:/Users/taylo/OneDrive/Desktop/code/dataset/images/train
+val:   C:/Users/taylo/OneDrive/Desktop/code/dataset/images/val
+
+# Classes
+names:
+  0: knife
+  1: firearm
